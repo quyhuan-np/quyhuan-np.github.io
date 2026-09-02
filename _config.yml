@@ -1,10 +1,11 @@
+# Configuration
 title: Quy-Huan Nguyen-Phuoc
 
+remote_theme: sighingnow/jekyll-gitbook
 toc:
     enabled: true
     h_min: 1
     h_max: 3
 # logo:
 #description: Final Year Aerospace Engineering Student
-remote_theme: sighingnow/jekyll-gitbook
 #theme: jekyll-theme-minimal
