@@ -1,4 +1,5 @@
 title: Quy-Huan Nguyen-Phuoc
 # logo:
 description: Final Year Aerospace Engineering Student
-theme: jekyll-theme-gitbook
+remote_theme: sighingnow/jekyll-gitbook
+#theme: jekyll-theme-minimal
