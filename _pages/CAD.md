@@ -1,9 +1,9 @@
 ---
 title: CAD Portfolio
 author: Quy-Huan Nguyen-Phuoc
-date: 4-09-2026
+date: 2026-09-04
 category: Jekyll
 layout: post
 ---
 
-this is a draft page
+This is the CAD experience page. 
