@@ -5,4 +5,4 @@ date: 2026-09-04
 category: Jekyll
 layout: post
 ---
-This is the projects page. 
+This is the projects page
