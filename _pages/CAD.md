@@ -25,4 +25,6 @@ Button dimensions were constrained to a maximum of 12mm in height.
 Learnt to use the knurl and pattern tools in FreeCAD
 
 
+![Rocker Stop Button]({{quyhuan-np.github.io}}/images/rocker_stop_button.png)
+
 # GPU Fan Enclosure
