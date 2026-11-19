@@ -31,6 +31,6 @@ Learnt to use the knurl and pattern tools in FreeCAD
 
 
 ![Rocker Stop Button](/images_/rocker_stop_button.png)\
-*Figure 1 Rocker Stop Button*
+*Rocker Stop Button*
 
 # GPU Fan Enclosure
