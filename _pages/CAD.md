@@ -30,7 +30,9 @@ Learnt to use the knurl and pattern tools in FreeCAD
 | Stop Button | |
 
 
-<img src="/images_/rocker_stop_button.png" alt="Alt text" width="400">
+| <img src="/images_/rocker_stop_button.png" alt="Alt text" width="400"> | <img scr="/images_/rocker_play_button.png" alt="Alt text" width="400"> |
+| :---: | :---: |
+| Stop Button | Play Button |
 
 
 ![Rocker Stop Button](/images_/rocker_stop_button.png)\
